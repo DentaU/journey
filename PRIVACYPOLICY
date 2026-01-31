@@ -1,0 +1,61 @@
+# Privacy Policy for My Baby Journey
+
+**Last updated: January 31, 2026**
+
+## Introduction
+
+My Baby Journey ("we", "our", or "the app") is a baby tracking application designed to help parents monitor their baby's feeding, sleep, diaper changes, growth, medications, and milestones. Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and your choices.
+
+## Information We Collect
+
+### Data You Provide
+When you use My Baby Journey, you may enter the following data:
+- Baby's name, date of birth, and profile photo
+- Feeding logs (type, amount, timestamps)
+- Sleep logs (nap and nighttime sleep durations)
+- Diaper change logs
+- Weight and height measurements
+- Medication records
+- Milestone records
+- Vaccination records
+
+### iCloud Sync
+If you choose to sign in with iCloud, your data is stored in your private iCloud account using Apple's CloudKit service. This data is associated with your Apple ID and is not accessible to us. If you choose to use the app without iCloud, your data is stored locally on your device only.
+
+### Subscription Information
+If you subscribe to My Baby Journey Premium, the purchase is processed entirely by Apple through the App Store. We do not collect or store any payment information, credit card numbers, or billing details.
+
+## How We Use Your Data
+
+- All baby tracking data is stored either locally on your device or in your private iCloud account.
+- We do **not** collect, transmit, or store your data on any external servers.
+- We do **not** have access to your iCloud data.
+- We do **not** sell, share, or rent your personal information to third parties.
+- We do **not** use your data for advertising or analytics.
+
+## Data Storage and Security
+
+- **Local storage**: Data is stored on your device using Core Data.
+- **iCloud storage**: If enabled, data is synced via Apple's CloudKit, which is encrypted in transit and at rest by Apple.
+- **No third-party services**: We do not integrate any third-party analytics, advertising, or tracking SDKs.
+
+## Children's Privacy
+
+My Baby Journey does not collect any personal information from children. The app is intended for use by parents and caregivers. All data entered into the app is about the baby as recorded by the parent or caregiver.
+
+## Your Choices
+
+- **Guest mode**: You can use the app without signing in to iCloud. Your data will be stored locally on your device only.
+- **Data deletion**: You can delete your data at any time by removing entries within the app or by deleting the app from your device. If you used iCloud sync, you can manage your iCloud storage through your device's Settings.
+
+## Subscriptions
+
+My Baby Journey offers an optional auto-renewable monthly subscription for premium features. Payment is charged to your Apple ID account at confirmation of purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. You can manage and cancel your subscriptions in your App Store account settings.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated date.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: betaniagpt@gmail.com
