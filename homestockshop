@@ -1,71 +1,73 @@
-Privacy Policy
+Privacy Policy (App Store Privacy Aligned)
+Effective Date: February 20, 2026
 
-Effective Date: February 19, 2026
+Home Stock Shop (“the App,” “we,” “us”) respects your privacy. This policy explains what data may be collected and how it is used.
 
-Home Stock Shop (“the App”) respects your privacy. This Privacy Policy explains what data is used, how it is used, and your choices.
+Data Used to Track You
+In the free version, the App uses Google Mobile Ads (AdMob) to show ads.
+With your permission where required (App Tracking Transparency), advertising identifiers and related data may be used for cross-app/site tracking and ad personalization.
 
+Data Linked to You
+Depending on your usage, the following may be linked to you by Apple and/or Google services:
+
+Purchases (subscription status for ad removal)
+User content (inventory items, shopping list entries, notes, settings)
+Identifiers (such as device/app identifiers, where applicable)
+Usage data (ad interactions, feature usage related to reports)
+Diagnostics (crash/performance data)
+Data Not Linked to You
+Some technical and diagnostic data may be processed in aggregated or de-identified form for:
+
+App performance and reliability
+Ad delivery and measurement
+Fraud/security prevention
 Information We Collect
-
-1. Information you provide in the App
-The App stores content you create, such as:
-- Item names, quantities, categories, notes, and settings
-- Shopping list entries
-- Report and usage history generated from your inventory activity
-
-2. Device and app data for ads
-If you use the free version, the App uses Google Mobile Ads SDK to display banner ads.
-Ad providers may collect certain technical data (such as device information, IP-based location, and advertising identifiers) to deliver and measure ads, subject to your device settings and consent choices.
-
-3. Purchases and subscriptions
-If you subscribe to remove ads, payment processing is handled by Apple through the App Store.
-We do not receive your full payment card details.
-
-How Your Data Is Used
-
-- To provide core inventory, shopping, and reporting features
-- To sync your data across your Apple devices (when iCloud is enabled)
-- To show ads in the free version
-- To manage premium entitlement status (ad removal subscription)
-
+Information you create in the App
+Item names, quantities, categories, notes, settings
+Shopping list entries
+Report and usage history based on your inventory activity
+Advertising data (free version)
+Google and partners may collect:
+Device/app information
+IP address and approximate location
+Advertising identifiers (where available and permitted)
+Ad interaction/performance data
+Diagnostics
+Purchases and subscriptions
+If you subscribe to remove ads, payments are processed by Apple.
+We do not receive full payment card details.
+How Data Is Used
+Provide inventory, shopping, and reporting features
+Sync data across Apple devices (if iCloud is enabled)
+Display, personalize (where permitted), and measure ads
+Confirm premium entitlement (remove ads subscription)
 Tracking and Consent
-
-Where required, the App may request tracking permission via Apple’s App Tracking Transparency prompt.
-You can change tracking permissions anytime in iOS Settings.
-
-Data Storage and Sync
-
-- App data is stored on your device.
-- If iCloud sync is enabled on your device, your app data may also be stored in your iCloud account through Apple’s services.
+Where required, the App requests permission via Apple’s ATT prompt before accessing tracking-related identifiers.
+You can change permissions anytime in iOS Settings.
 
 Data Sharing
+We do not sell personal information.
+We share data only with providers required to operate the App:
 
-We do not sell your personal information.
-We share data only as needed with service providers that power core functionality:
-- Apple (App Store purchases, iCloud sync)
-- Google (ad delivery and measurement in the free version)
+Apple: App Store billing and iCloud sync
+Google: Ad delivery, measurement, fraud prevention, and related analytics for the free version
+More details:
 
+Google Privacy Policy
+Google Partner Sites/Apps Data Use
 Children’s Privacy
-
 The App is not directed to children under 13, and we do not knowingly collect personal information from children.
 
 Data Security
-
-We use Apple platform protections and system frameworks to help protect your data.
+We use Apple platform protections and standard system frameworks to help secure data.
 No method of transmission or storage is 100% secure.
 
 Your Choices
-
-- You can stop using the App at any time.
-- You can delete app data in the App or by uninstalling the App.
-- You can manage/cancel subscriptions in your Apple ID subscription settings.
-- You can control ad tracking permissions in iOS Settings.
-
-Changes to This Privacy Policy
-
-We may update this policy from time to time.
-If we make changes, we will update the effective date above.
+Delete app data in-app or by uninstalling
+Manage/cancel subscriptions in Apple ID settings
+Control tracking/ad permissions in iOS Settings
+Changes to This Policy
+We may update this policy from time to time and will update the effective date.
 
 Contact
-
-If you have questions about this Privacy Policy, contact:
 betaniagpt@gmail.com
